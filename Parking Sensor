@@ -1,5 +1,5 @@
 /*
- HC-SR04  distance sensor]
+ HC-SR04  distance sensor
  */
 #define buzzer 10
 #define trigPin 11
