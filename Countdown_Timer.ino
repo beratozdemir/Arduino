@@ -38,7 +38,7 @@ digitalWrite(2, LOW);
 
 if (hours < 1)
 digitalWrite(2, HIGH);
-delay (200);
+delay (200); 
 digitalWrite(2, LOW);
       
 if (hours < 0){      // bail out on sensor detect
