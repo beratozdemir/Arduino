@@ -37,3 +37,4 @@ void renkAyarla(int kirmizi, int yesil, int mavi)
  analogWrite(yesilPin, yesil);
  analogWrite(maviPin, mavi);
 }
+//
