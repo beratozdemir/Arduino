@@ -2,7 +2,7 @@
 #include<SoftwareSerial.h>
 
 Servo sg90;
-//byte led1=0;
+//byte led1=0; //
 //byte led2=1;
 
 SoftwareSerial bt_iletisim(4,7); //rx,tx
